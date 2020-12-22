@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning RTL Design and verification and new computer architectures.
 - 🤔 I’m looking for help with CNN accelerator hardware design.
 - 💬 Ask me about anything, I'm happy to help.
-- 📫 How to reach me: sohammondal39@gmail.com or see [resume](https://soham-coder.github.io/site/Resume.pdf) for more info.
+- 📫 How to reach me: [mailme](mailto:sohammondal39@gmail.com) or see [Resume](https://soham-coder.github.io/site/Resume.pdf) for more info.
 
 ![Soham's github stats](https://github-readme-stats.vercel.app/api?username=Soham-coder&show_icons=true&theme=graywhite&hide_border=true)
 
