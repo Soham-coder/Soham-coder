@@ -21,7 +21,7 @@
 <br />
 <br />
 
-- 🔭 I'm currently working on RTL Design and verification, Computer Architecture, verification of SSD and UFS memory SoCs, design verification automation.
+- 🔭 I'm currently working on RTL Design and verification, Computer Architecture, Verification of SSD and UFS memory SoCs, Design Verification automation.
 - 🌱 I’m currently learning RTL Design and verification and new computer architectures.
 - 🤔 I’m looking for help with CNN accelerator hardware design.
 - 💬 Ask me about anything, I'm happy to help.
