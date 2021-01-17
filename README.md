@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-### 👋 Soham's GitHub Profile 👋
+### 👋 Soham's GitHub Profile 
 
 <a href="https://www.linkedin.com/in/soham-mondal-b26071100/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
