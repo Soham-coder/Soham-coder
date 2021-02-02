@@ -11,7 +11,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-<p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" /> <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Soham-coder&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></em></p>  
+<p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" /> <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Soham-coder&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></em></p> 
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cd96f36a-a508-414f-a9da-2fcfe3bd37ec" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
 
 ### 👋 Soham's GitHub Profile 
 
