@@ -13,14 +13,14 @@
 - ⚡ Fun fact: ...-->
 <p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" /> <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Soham-coder&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></em></p> 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cd96f36a-a508-414f-a9da-2fcfe3bd37ec" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<!--<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cd96f36a-a508-414f-a9da-2fcfe3bd37ec" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>-->
 
 ### 👋 Soham's GitHub Profile 
 
 <a href="https://www.linkedin.com/in/soham-mondal-b26071100/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cd96f36a-a508-414f-a9da-2fcfe3bd37ec" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<!--<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cd96f36a-a508-414f-a9da-2fcfe3bd37ec" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>-->
 <br />
 <br />
 
