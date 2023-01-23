@@ -17,7 +17,7 @@
 
 ### 👋 Soham's GitHub Profile 
 
-<a href="https://www.linkedin.com/in/soham-mondal-b26071100/">
+<a href="https://www.linkedin.com/in/sohammn/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   <!--<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cd96f36a-a508-414f-a9da-2fcfe3bd37ec" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>-->
 </a>
