@@ -26,7 +26,7 @@
 <br />
 
 - 🔭 Interests - Neural chips, DNN accelerators, DV automation and acceleration
-- 📫 How to reach me: [Mail-me](mailto:sohammondal39@gmail.com) or see [Resume](https://soham-coder.github.io/site/Resume.pdf) for more info.
+- 📫 How to reach me: [Mail-me](mailto:sohammondal39@gmail.com) or see [Resume](https://drive.google.com/file/d/188ClATxAnAKTPjuVLfzdpVAmRwY4Ao4z/view?usp=sharing) for more info.
 
 ![Soham's github stats](https://github-readme-stats.vercel.app/api?username=Soham-coder&show_icons=true&theme=graywhite&hide_border=true)
 
