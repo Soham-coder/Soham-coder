@@ -25,10 +25,7 @@
 <br />
 <br />
 
-- 🔭 I'm currently working on RTL Design and verification, Computer Architecture, Verification of SSD and UFS memory SoCs, Design Verification automation.
-- 🌱 I’m currently learning RTL Design and verification and new computer architectures.
-- 🤔 I’m looking for help with CNN accelerator hardware design.
-- 💬 Ask me about anything, I'm happy to help.
+- 🔭 Interests - Neural chips, DNN accelerators, DV automation and acceleration
 - 📫 How to reach me: [Mail-me](mailto:sohammondal39@gmail.com) or see [Resume](https://soham-coder.github.io/site/Resume.pdf) for more info.
 
 ![Soham's github stats](https://github-readme-stats.vercel.app/api?username=Soham-coder&show_icons=true&theme=graywhite&hide_border=true)
