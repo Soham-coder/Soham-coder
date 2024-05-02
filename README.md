@@ -26,7 +26,7 @@
 <br />
 
 - 🔭 Interests - Silicon and Software Product Development and Management
-- 📫 How to reach me: [Mail-me](mailto:sohammondal39@gmail.com) or see [Resume](https://www.slideshare.net/slideshow/rsum-2-pager-12-ft-standard-syntax/267677575) for more info.
+- 📫 How to reach me: [Mail-me](mailto:sohammondal39@gmail.com) <!--or see [Resume](https://www.slideshare.net/slideshow/rsum-2-pager-12-ft-standard-syntax/267677575) for more info.-->
 
 <!-- ![Soham's github stats](https://github-readme-stats.vercel.app/api?username=Soham-coder&show_icons=true&theme=graywhite&hide_border=true)-->
 
